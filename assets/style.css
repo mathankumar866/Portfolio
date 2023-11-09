@@ -218,6 +218,7 @@ nav {
     background: white;
     border-radius: 30px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25);
+    transition: .3s;
 }
 
 .scroll-btn i {
@@ -335,6 +336,7 @@ nav {
     font-size: 25px;
 }
 
+
 /* ----- SKILL  BOX ----- */
 
 .skills-header {
@@ -372,7 +374,8 @@ nav {
     margin: 0 auto;
     margin-top: 50px;
 }
-.study{
+
+.study {
     display: flex;
     justify-content: space-around;
     width: 250px;
@@ -406,7 +409,7 @@ nav {
     margin-top: 100px
 }
 
- .htmlcss {
+.htmlcss {
     display: flex;
     width: 80%;
     justify-content: space-between;
@@ -585,6 +588,8 @@ textarea {
     background: white;
 }
 
+
+
 .pop-box {
     position: absolute;
     left: 50%;
@@ -733,6 +738,17 @@ footer {
     .rows {
         flex-wrap: wrap;
     }
+
+    .contact-info p {
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    .content-items1, .content-items2, .about-info {
+        width: 90%;
+    }
+
+    .info-name {
+        font-size: 30px;
+    }
 }
-
-
