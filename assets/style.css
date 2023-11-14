@@ -462,7 +462,7 @@ nav {
     height: 100%;
     width: 100%;
     opacity: 0;
-    transition: .5s ease;
+    transition: .6s ease;
     background-color: rgb(110, 87, 224);
     border-radius: 10px;
     color: white;
