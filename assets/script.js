@@ -9,7 +9,7 @@ function myMenuFunction(){
 }
 
   let typingEffect = new Typed(".typedText",{
-    strings : ["Web Designer", "Frontend Developer",/*"Full Stack Developer"*/],
+    strings : ["Web Designer", "Fullstack Developer",/*"Full Stack Developer"*/],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 100,
