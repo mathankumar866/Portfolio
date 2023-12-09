@@ -8,13 +8,13 @@ function myMenuFunction(){
     }
 }
 
-  let typingEffect = new Typed(".typedText",{
+let typingEffect = new Typed(".typedText",{
     strings : ["Web Designer", "Fullstack Developer",/*"Full Stack Developer"*/],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 100,
     backDelay : 2000
-  })
+})
 
 let htmlheading= document.querySelector(".htmlheading");
 let bootstrapheading = document.querySelector(".bootstrapheading");

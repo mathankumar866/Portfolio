@@ -141,7 +141,7 @@ nav {
 }
 
 .info {
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 .info-text-card span {
@@ -178,7 +178,7 @@ nav {
     right: 1%;
     gap: 4em;
     justify-content: center;
-    top: 40%;
+    top: 45%;
 }
 
 .icon {
@@ -237,7 +237,7 @@ nav {
     width: 72%;
     justify-content: space-between;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .program-icons iconify-icon {
@@ -696,7 +696,7 @@ footer {
     }
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 850px) {
     .nav-menu.responsive {
         left: 0;
     }
